@@ -1,0 +1,29 @@
+First control event
+Candidate name: Novik Ivan; id: 2701; first exem grade: 10; second exem grade: 15.
+Candidate name: Burger Nick; id: 5621; first exem grade: 8; second exem grade: 10.
+Candidate name: Batter Arthem; id: 10777; first exem grade: 6; second exem grade: 10.
+Candidate name: Kozirev Nikita; id: 25; first exem grade: 3; second exem grade: 15.
+
+Second control event
+Candidate name: Novik Ivan; id: 2701; exem grade: 10; test: passed.
+Candidate name: Burger Nick; id: 5621; exem grade: 7.5; test: passed.
+Candidate name: Batter Arthem; id: 10777; exem grade: 8; test: failed.
+Candidate name: Kozirev Nikita; id: 25; exem grade: 6; test: passed.
+
+Third control event
+Candidate name: Novik Ivan; id: 2701; first test: passed; second test: passed; third test: passed; fourth test: passed; fifth test: passed.
+Candidate name: Burger Nick; id: 5621; first test: failed; second test: passed; third test: passed; fourth test: passed; fifth test: passed.
+Candidate name: Batter Arthem; id: 10777; first test: passed; second test: passed; third test: passed; fourth test: failed; fifth test: failed.
+Candidate name: Kozirev Nikita; id: 25; first test: failed; second test: passed; third test: failed; fourth test: passed; fifth test: failed.
+Candidate name: Sambook Pavel; id: 270; first test: failed; second test: passed; third test: failed; fourth test: passed; fifth test: failed.
+Candidate name: Litvinenco Dima; id: 166; first test: failed; second test: failed; third test: passed; fourth test: passed; fifth test: passed.
+
+Second control event
+Candidate name: Sambook Pavel; id: 270; exem grade: 10; test: failed.
+Candidate name: Litvinenco Dima; id: 166; exem grade: 5.5; test: passed.
+
+First control event
+Candidate name: Sambook Pavel; id: 270; first exem grade: 9; second exem grade: 13.
+Candidate name: Litvinenco Dima; id: 166; first exem grade: 6; second exem grade: 9.
+
+end.
